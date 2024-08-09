@@ -39,8 +39,7 @@ def lapres():
     output = round(mod.predict(question)[0],2)
     return render_template("Laptop_result.html",Brand=Brand,Processor_Speed=Processor_Speed,RAM_Size=RAM_Size,Storage_Capacity=Storage_Capacity,Screen_Size=Screen_Size,Weight=Weight,output=output)
 
-if __name__ == "__main__":
-    app.run(debug=True)
+
 
 
     
