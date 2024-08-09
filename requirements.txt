@@ -1,5 +1,4 @@
 Flask
 Gunicorn
 numpy
-pandas
-pickle
+pandas>=2.2.2
