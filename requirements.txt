@@ -1,4 +1,5 @@
 Flask
 Gunicorn
 numpy
+sklearn
 pandas>=2.2.2
