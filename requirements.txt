@@ -1,5 +1,5 @@
 Flask
 Gunicorn
 numpy
-sklearn
+scikit-learn
 pandas>=2.2.2
